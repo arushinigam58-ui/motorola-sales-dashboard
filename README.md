@@ -6,8 +6,7 @@ A professional Sales Analytics Dashboard built using **Power BI** and **Excel** 
 
 ## 🖼️ Dashboard Preview
 
-![Motorola Sales Dashboard](./dashboard.png)
-
+![Motorola Sales Dashboard](./Screenshot%202026-01-27%20191159.png)
 ---
 
 ## 📌 Project Overview
